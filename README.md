@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MasterTask](https://github.com/Thevaulthunter0/masterTask)
 
-- 🌱 I’m currently learning **Python, API and GUI**
+- 🌱 I’m currently learning **Python, ASP.NET, API**
 
 - 📫 How to reach me **mathieuppicard@hotmail.com**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MemoApp](https://github.com/Thevaulthunter0/MemoApp) and [NewAtCLI](https://github.com/Thevaulthunter0/NewAtCLI)
 
-- 🌱 I’m currently learning **Python, ASP.NET, API**
+- 🌱 I’m currently learning **Python**, **ASP.NET**, **API** and **HOME SERVER**
 
 - 📫 How to reach me **mathieuppicard@hotmail.com**
 

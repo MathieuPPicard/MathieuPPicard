@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mathieu!</h1>
 <h3 align="center">A passionate student/developer from Quebec looking to work in the IT field.</h3>
 
-- 🔭 I’m currently working on [MemoApp](https://github.com/Thevaulthunter0/MemoApp) and [NewAtCLI](https://github.com/Thevaulthunter0/NewAtCLI)
+- 🔭 I’m currently working on [Springboot](https://github.com/Thevaulthunter0/SpringBootTemplate)
 
-- 🌱 I’m currently learning **Python**, **ASP.NET**, **API** and **HOME SERVER**
+- 🌱 I’m currently learning **Python**, **ASP.NET**, **SpringBoot**
 
 - 📫 How to reach me **mathieuppicard@hotmail.com**
 

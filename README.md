@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Springboot](https://github.com/Thevaulthunter0/SpringBootTemplate) , [HttpServerFramework](https://github.com/MathieuPPicard/HttpServerFramework)
 
-- 🌱 I’m currently learning **Python**, **ASP.NET**, **SpringBoot**
+- 🌱 I’m currently learning **Python**, **ASP.NET**, **SpringBoot**, **Angular**
 
 - 📫 How to reach me **mathieuppicard@hotmail.com**
 
